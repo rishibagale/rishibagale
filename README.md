@@ -30,21 +30,12 @@ Most of what I build starts from the same question: **what does it look like to 
 
 **Conceptual SuperIntelligence** — a framework I'm formalizing that treats intelligence as a combinatorial function of three things: the reality model an agent holds, the information it has access to, and the mechanism it uses to combine them. Manifesto in progress.
 
-**[Civilens](https://curios-azure.vercel.app)** — an interactive WebGL/MapLibre GL civilization explorer with an AI synthesis layer on top, for exploring how human settlements and systems evolve spatially over time.
+**[Civilens](https://curios-azure.vercel.app/)** — an interactive WebGL/MapLibre GL civilization explorer with an AI synthesis layer on top, for exploring how human settlements and systems evolve spatially over time.
 
 **Open source (Python):**
 - [`Pocket Companion`](https://github.com/rishibagale/pocket-companion) — fully offline voice AI using `faster-whisper` + Ollama
 - `TwinBot` — a personal AI replica with multi-channel adapters and persistent SQLite memory
 - `Yentofi v0.1` — an early agent loop with Socratic session design, built on the Groq API
-
-<br>
-
-### currently
-
-- 🔭 Getting Yentellect in front of real users instead of continuing to polish it alone
-- 📜 Writing the Conceptual SuperIntelligence manifesto
-- 🧠 Relearning Python from the metal up — scope, mutability, CPython internals — after realizing AI-assisted "vibe-coding" had quietly eroded my own intuition
-- 🌌 Exploring the classical–quantum boundary: VQE, the barren plateau problem, post-quantum cryptography (ML-KEM, ML-DSA)
 
 <br>
 
@@ -58,20 +49,25 @@ Most of what I build starts from the same question: **what does it look like to 
 <a href="https://yentellect.vercel.app">
   <img src="https://img.shields.io/badge/Yentellect-live_product-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Yentellect"/>
 </a>
-<a href="rishibagale07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reach_out-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://curios-azure.vercel.app/">
+  <img src="https://img.shields.io/badge/Civilens-live_product-7DD3FC?style=for-the-badge&logo=vercel&logoColor=white" alt="Civilens"/>
 </a>
 <a href="https://www.linkedin.com/in/rishi-bagale-a16aab385/">
-  <img src="(https://www.linkedin.com/in/rishi-bagale-a16aab385/)"/>
+  <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Rishibagale">
+  <img src="https://img.shields.io/badge/X-@Rishibagale-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.instagram.com/rishi_bagale_">
+  <img src="https://img.shields.io/badge/Instagram-@rishi__bagale__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@RishiBagale0">
+  <img src="https://img.shields.io/badge/YouTube-@RishiBagale0-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:rishibagle07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-reach_out-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishibagale&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7DD3FC&text_color=C9D1D9" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishibagale&theme=dark&hide_border=true&background=00000000&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub streak" height="165"/>
 </div>
 
 <br>
