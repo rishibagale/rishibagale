@@ -1,0 +1,29 @@
+<svg viewBox="0 0 920 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated skill chain">
+
+<defs>
+  <linearGradient id="nodeGrad2" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#7dd3fc"/>
+    <stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
+  <filter id="glow2" x="-150%" y="-150%" width="400%" height="400%">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<polyline id="chain" points="70.0,48 226.0,48 382.0,48 538.0,48 694.0,48 850.0,48" fill="none" stroke="#2d3348" stroke-width="1.5"/>
+<circle r="3.2" fill="#f472b6" filter="url(#glow2)"><animateMotion dur="4.5s" repeatCount="indefinite" begin="-0s"><mpath href="#chain"/></animateMotion></circle>
+<circle r="3.2" fill="#f472b6" filter="url(#glow2)"><animateMotion dur="4.5s" repeatCount="indefinite" begin="-2.25s"><mpath href="#chain"/></animateMotion></circle>
+<circle cx="70.0" cy="48" r="5" fill="url(#nodeGrad2)" filter="url(#glow2)"><animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite" begin="0.00s"/></circle>
+<text x="70.0" y="80" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#c9d1d9" text-anchor="middle">Python<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite" begin="0.00s"/></text>
+<circle cx="226.0" cy="48" r="5" fill="url(#nodeGrad2)" filter="url(#glow2)"><animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite" begin="0.35s"/></circle>
+<text x="226.0" y="80" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#c9d1d9" text-anchor="middle">Linear Algebra<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite" begin="0.35s"/></text>
+<circle cx="382.0" cy="48" r="5" fill="url(#nodeGrad2)" filter="url(#glow2)"><animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite" begin="0.70s"/></circle>
+<text x="382.0" y="80" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#c9d1d9" text-anchor="middle">Signal Processing<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite" begin="0.70s"/></text>
+<circle cx="538.0" cy="48" r="5" fill="url(#nodeGrad2)" filter="url(#glow2)"><animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite" begin="1.05s"/></circle>
+<text x="538.0" y="80" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#c9d1d9" text-anchor="middle">Cognitive Modeling<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite" begin="1.05s"/></text>
+<circle cx="694.0" cy="48" r="5" fill="url(#nodeGrad2)" filter="url(#glow2)"><animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite" begin="1.40s"/></circle>
+<text x="694.0" y="80" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#c9d1d9" text-anchor="middle">LLMs / Agents<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite" begin="1.40s"/></text>
+<circle cx="850.0" cy="48" r="5" fill="url(#nodeGrad2)" filter="url(#glow2)"><animate attributeName="r" values="5;8.5;5" dur="2.4s" repeatCount="indefinite" begin="1.75s"/></circle>
+<text x="850.0" y="80" font-family="Consolas, Menlo, monospace" font-size="12.5" fill="#c9d1d9" text-anchor="middle">Quantum Computing<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite" begin="1.75s"/></text>
+</svg>
