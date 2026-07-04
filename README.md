@@ -30,7 +30,7 @@ Most of what I build starts from the same question: **what does it look like to 
 
 **Conceptual SuperIntelligence** — a framework I'm formalizing that treats intelligence as a combinatorial function of three things: the reality model an agent holds, the information it has access to, and the mechanism it uses to combine them. Manifesto in progress.
 
-**Civilens** — an interactive WebGL/MapLibre GL civilization explorer with an AI synthesis layer on top, for exploring how human settlements and systems evolve spatially over time.
+**[Civilens](https://curios-azure.vercel.app)** — an interactive WebGL/MapLibre GL civilization explorer with an AI synthesis layer on top, for exploring how human settlements and systems evolve spatially over time.
 
 **Open source (Python):**
 - [`Pocket Companion`](https://github.com/rishibagale/pocket-companion) — fully offline voice AI using `faster-whisper` + Ollama
@@ -58,11 +58,11 @@ Most of what I build starts from the same question: **what does it look like to 
 <a href="https://yentellect.vercel.app">
   <img src="https://img.shields.io/badge/Yentellect-live_product-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Yentellect"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="rishibagale07@gmail.com">
   <img src="https://img.shields.io/badge/Email-reach_out-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin-handle">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/rishi-bagale-a16aab385/">
+  <img src="(https://www.linkedin.com/in/rishi-bagale-a16aab385/)"/>
 </a>
 
 </div>
