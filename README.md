@@ -10,7 +10,7 @@
 
 ### who i am
 
-I'm Rishi — an 18-year-old solo builder working where cognitive science, AI, and quantum computing overlap. No lab, no cofounder, no formal program behind me — just a notebook full of half-finished theories and a habit of shipping the parts that work.
+I'm Rishi — an 19-year-old solo builder working where cognitive science, AI, and quantum computing overlap. No lab, no cofounder, no formal program behind me — just a notebook full of half-finished theories and a habit of shipping the parts that work.
 
 I think in cross-domain leaps rather than single tracks — closer to how da Vinci moved between anatomy, mechanics, and art than how most engineers move between tickets. Math and physics are where my curiosity actually lives; code is just the fastest tool I've found for turning an idea into something that runs.
 
