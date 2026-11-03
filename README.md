@@ -26,7 +26,7 @@ Most of what I build starts from the same question: **what does it look like to 
 
 ### what i'm building
 
-**reserch workbench ** — a cognitive training platform built around the idea of a personal *cognitive fingerprint*: how you specifically reason, where you specifically get stuck, and what training actually expands that. This is the long-term bet.
+**reserch workbench** — a cognitive training platform built around the idea of a personal *cognitive fingerprint*: how you specifically reason, where you specifically get stuck, and what training actually expands that. This is the long-term bet.
 
 **Conceptual SuperIntelligence** — a framework I'm formalizing that treats intelligence as a combinatorial function of three things: the reality model an agent holds, the information it has access to, and the mechanism it uses to combine them. Manifesto in progress.
 
